@@ -1,0 +1,134 @@
+{
+	"FuzzyData": [
+		{
+			"age": 0.039149858,
+			"property": 0.537278136,
+			"insurance_fee": 3.100775194
+		},
+		{
+			"age": 0.068043264,
+			"property": 1.108661365,
+			"insurance_fee": 117.2932331
+		},
+		{
+			"age": 0.118496875,
+			"property": 1.350763556,
+			"insurance_fee": 9.861591696
+		},
+		{
+			"age": 0.024430178,
+			"property": 1.84170945,
+			"insurance_fee": 20.78740157
+		},
+		{
+			"age": 0.069241151,
+			"property": 1.813841767,
+			"insurance_fee": 6.910039113
+		},
+		{
+			"age": 0.103025508,
+			"property": 2.107084649,
+			"insurance_fee": 24.3902439
+		},
+		{
+			"age": 0.151303194,
+			"property": 2.29135482,
+			"insurance_fee": 12.35294118
+		},
+		{
+			"age": 0.037238529,
+			"property": 2.718447083,
+			"insurance_fee": 7.940663176
+		},
+		{
+			"age": 0.082381604,
+			"property": 2.458383876,
+			"insurance_fee": 1.212611156
+		},
+		{
+			"age": 0.123423654,
+			"property": 2.096695092,
+			"insurance_fee": -6.389776358
+		},
+		{
+			"age": 0.149744378,
+			"property": 2.656478559,
+			"insurance_fee": 22.6109215
+		},
+		{
+			"age": 0.037422857,
+			"property": 3.288085596,
+			"insurance_fee": 11.76061239
+		},
+		{
+			"age": 0.08184049,
+			"property": 3.054114525,
+			"insurance_fee": 1.805728518
+		},
+		{
+			"age": 0.10755859,
+			"property": 3.172740371,
+			"insurance_fee": 11.9266055
+		},
+		{
+			"age": 0.145256234,
+			"property": 3.72245107,
+			"insurance_fee": 15.68306011
+		},
+		{
+			"age": 0.034446731,
+			"property": 4.866322827,
+			"insurance_fee": 22.72083137
+		},
+		{
+			"age": 0.07999423,
+			"property": 4.40994407,
+			"insurance_fee": 1.231716705
+		},
+		{
+			"age": 0.089131024,
+			"property": 4.623057166,
+			"insurance_fee": 6.844106464
+		},
+		{
+			"age": 0.107069174,
+			"property": 3.49873819,
+			"insurance_fee": -20.6405694
+		},
+		{
+			"age": 0.032203357,
+			"property": 3.212738148,
+			"insurance_fee": -0.627802691
+		},
+		{
+			"age": 0.052925255,
+			"property": 3.40801905,
+			"insurance_fee": 15.5234657
+		},
+		{
+			"age": 0.068762502,
+			"property": 3.235183916,
+			"insurance_fee": -0.390625
+		},
+		{
+			"age": 0.082214764,
+			"property": 4.084761226,
+			"insurance_fee": 25.7254902
+		},
+		{
+			"age": 0.03040513,
+			"property": 4.037547833,
+			"insurance_fee": -0.187149095
+		},
+		{
+			"age": 0.051641933,
+			"property": 4.301248639,
+			"insurance_fee": 10.625
+		},
+		{
+			"age": 0.066680863,
+			"property": 3.903158475,
+			"insurance_fee": -10.73446328
+		}
+	]
+}
